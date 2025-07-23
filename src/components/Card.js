@@ -6,7 +6,7 @@ const Card = () => {
   const profile = {
     name: "Franck ABO",
     title: "Directeur Général",
-    number: "+2250749303924",
+    number: "+2250500818080",
     email: "franck.abo@cimef-assurances.com",
     site: "https://cimef-assurances.com",
   };
