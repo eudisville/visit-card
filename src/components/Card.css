@@ -1,0 +1,70 @@
+.card {
+  background: #fff;
+  box-shadow: 0 8px 16px rgba(0,0,0,0.1);
+  padding: 20px;
+  width: 500px;
+  margin: 20px auto;
+  font-family: 'Roboto', sans-serif;
+  text-align: center;
+}
+
+.name h2 {
+  margin-bottom: 0;
+}
+
+.name p {
+  margin: 0;
+  color: rgb(0, 68, 102);
+  text-transform: uppercase;
+  font-weight: bold;
+}
+
+.number {
+  margin: 15px 0;
+}
+
+.number button {
+  margin: 5px auto;
+  width: 100%;
+  padding: 15px;
+  background-color: #0078D4;
+  color: white;
+  border-radius: 50px;
+  text-decoration: none;
+  border: none;
+  font-size: 16px;
+}
+
+.number button:hover {
+  background-color: black;
+  transition: .3s;
+  cursor: pointer;
+}
+
+.avatar {
+  width: 150px;
+  margin-bottom: 15px;
+}
+
+button a{
+  margin: 15px auto;
+  width: 100%;
+  padding: 15px;
+  color: white;
+  border-radius: 50px;
+  text-decoration: none;
+  border: none;
+  font-size: 16px;
+}
+
+.location {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+}
+
+.icon img {
+  width: 20px;
+}
